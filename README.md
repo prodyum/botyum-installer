@@ -17,12 +17,13 @@ The page links to the manifest and IPA required by iOS OTA installation.
 ```text
 index.html                 Installer page
 manifest.plist             iOS OTA manifest
+release.json               Current release marker and content hashes
 manifest.webmanifest       Web metadata for the installer page
 assets/                    Icons and static assets
 ipa/botyum-install.ipa     Latest signed IPA
 ```
 
-`botyum-install.ipa` is replaced by the OneLane release workflow after a successful GitHub Actions iOS build.
+`botyum-install.ipa` is replaced by the OneLane release workflow after a successful GitHub Actions iOS build. `release.json` is regenerated for the same release and is used by OneLane to verify that GitHub Pages is serving the exact current installer content.
 
 ## Publish Flow
 

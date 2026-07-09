@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "releaseId": "a71aba2e7f8eec9fd7403d9cbf0afbc3dbd5a131fedfd34f1b062cade109f5c1",
+  "generatedAtUtc": "2026-07-09T01:22:41.4745556Z",
+  "mode": "dist",
+  "appDisplayName": "Botyum",
+  "bundleId": "com.prodyum.botyumapp",
+  "version": "2026.7.8",
+  "buildNumber": "32",
+  "ipaFileName": "botyum-install.ipa",
+  "ipaSha256": "74a15f9a3d87a428910ef8e81f6d9353fc7656d907a68881f8b59ba085f6b774",
+  "manifestSha256": "8e0693e118e7ecbd928d702374c0afbd2efec97f013b4bbb7a9d56e35f28e086",
+  "workflowRun": "https://github.com/prodyum/one-lane/actions/runs/28987325060",
+  "pagesUrl": "https://prodyum.github.io/botyum-installer/",
+  "manifestUrl": "https://prodyum.github.io/botyum-installer/manifest.plist",
+  "ipaUrl": "https://prodyum.github.io/botyum-installer/ipa/botyum-install.ipa"
+}
