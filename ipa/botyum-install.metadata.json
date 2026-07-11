@@ -2,13 +2,13 @@
   "appSlug": "botyum",
   "buildNumber": "33",
   "bundleId": "com.prodyum.botyumapp",
-  "commitSha": "fbb617616fdb764b67ab92956de68a215803d097",
+  "commitSha": "7aae5f25704d460ceb07fb3102fadb08912d2481",
   "deviceHash": "75cf38476b465ffbd9a8d843a58c137e7ae80e063494373fbeb18f5cf8154bc0",
   "displayName": "Botyum",
-  "ipaSha256": "6453cbceb4359eaa2d97d9fcf3c56e51c59b1e103e1e824089f3094b8baba23a",
+  "ipaSha256": "0864f8027cb37acd077eb2e5591151ea45b0c847a1ed5fd1651cec4297806863",
   "ipaType": "dist",
   "schemaVersion": 1,
-  "sourceFingerprint": "af5c012cc42ae24f45840fb0143235fef39db92d6bcbf0d42444253b47204635",
+  "sourceFingerprint": "d0f982774f8a4bb76802fab3a8c7dec3348f682bc8dae8603860480492e44c70",
   "version": "2026.7.11",
   "xcodeVersion": "Xcode 26.5 Build version 17F42"
 }
